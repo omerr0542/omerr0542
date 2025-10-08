@@ -56,8 +56,15 @@ My expertise lies in creating smart manufacturing tools using both **C#** and **
 
 ### 🧰 Toolchain
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,py,mssql,devexpress,opencv,git,github,linux,visualstudio,vscode" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pylon%20SDK-008080?style=for-the-badge" />
 </p>
 
 ### 📈 GitHub Stats
