@@ -54,12 +54,11 @@ My expertise lies in creating smart manufacturing tools using both **C#** and **
 | **Kampolia** | Camp site management platform | ASP.NET Core MVC, EF |
 | **JadooTravel** | Modern travel management website | ASP.NET MVC, AutoMapper |
 
----
-
 ### 🧰 Toolchain
-.NET • C# • SQL • DevExpress • Python • Pylon • YOLOv8 • JSON • API • Git
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,py,mssql,devexpress,opencv,git,github,linux,visualstudio,vscode" />
+</p>
 
 ### 📈 GitHub Stats
 
@@ -73,8 +72,8 @@ My expertise lies in creating smart manufacturing tools using both **C#** and **
 ### 🌍 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omerfarukyilmaz">LinkedIn</a> • 
-  <a href="mailto:omerfarukyilmaz0542@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/omerr589">LinkedIn</a> • 
+  <a href="mailto:o.faruk0542@gmail.com">Email</a> • 
   <a href="https://github.com/omerr0542">GitHub</a>
 </p>
 
