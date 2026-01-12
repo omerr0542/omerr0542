@@ -86,9 +86,10 @@ I design and build end-to-end software — from **database architecture** and **
 ### 🌍 Connect
 
 <p align="center">
+  <a href="https://omerfarukyilmaz.com">WebSite</a> • 
   <a href="https://www.linkedin.com/in/omerr589">LinkedIn</a> • 
   <a href="mailto:o.faruk0542@gmail.com">Email</a> • 
-  <a href="https://github.com/omerr0542">GitHub</a>
+  <a href="https://github.com/omerr0542">GitHub</a> 
 </p>
 
 ---
